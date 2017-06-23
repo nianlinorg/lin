@@ -1,7 +1,7 @@
 package fun;
 
-public class Fun {
+public class Dev {
 	public static void main(String[] args) {
-		System.out.println("-dev-change--");
+		System.out.println("--this is dev---");
 	}
 }
